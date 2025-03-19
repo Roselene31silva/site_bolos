@@ -208,3 +208,12 @@ body {
     letter-spacing: 0%;
     text-align: center;
 }
+
+.lista{
+    columns: 4;
+}
+
+.fotos{
+    align-items: center;
+}
+
