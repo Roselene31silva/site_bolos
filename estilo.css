@@ -207,13 +207,106 @@ body {
     line-height: 75%;
     letter-spacing: 0%;
     text-align: center;
+    padding-top: 41px;
+    padding-bottom: 52px;
+    color: #F8BD7F;
 }
 
-.lista{
+.lista {
     columns: 4;
+    margin-left: 84px;
+    margin-right: 52px;
+    list-style-type: disc;
+    color: #6B705C;
+    line-height: 130%;
+    padding-bottom: 58px;
 }
 
-.fotos{
-    align-items: center;
+.fotos {
+    font-family: "Lobster";
+    width: 1440;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    font-size: 45px;
+    text-align: center;
+    color: #FFE8D6;
 }
 
+.galeria {
+    background: #F5AC72;
+    text-align: center;
+}
+
+.bolo_cenoura {
+    width: 200;
+    height: 200;
+    margin-left: 308px;
+    padding-bottom: 52px;
+    margin-right: 113px;
+}
+
+.bolo_creme {
+    width: 200px;
+    height: 200px;
+    margin-right: 90px;
+    padding-bottom: 52px;
+}
+
+.bolo_festa {
+    width: 200px;
+    height: 200px;
+    margin-right: 329px;
+    padding-bottom: 52PX;
+}
+
+.contato {
+    font-family: "Lobster";
+    font-size: 45px;
+    line-height: 75%;
+    text-align: center;
+    padding-top: 52PX;
+    padding-bottom: 21PX;
+    color: #CB997E;
+}
+
+.imagem_mapa {
+    width: 990;
+    height: 363;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50PX;
+    display: block;
+}
+
+.linha {
+    border-top: 5px solid #F8BD7F;
+}
+
+.bolos {
+    font-family: "Lobster";
+    padding-top: 29px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.cida {
+    font-family: "Lobster";
+    font-size: 44px;
+    text-align: center;
+    padding-bottom: 21px;
+}
+
+.rodape {
+    text-align: center;
+    padding-top: 21px;
+    padding-bottom: 33px;
+}
+
+.instagran {
+   margin-left: 13px;
+
+}
+
+.a{
+    margin-left: 13px;
+}
